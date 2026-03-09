@@ -14,10 +14,10 @@ def main():
     args = parser.parse_args()
 
     if args.dry_run:
-        print(f"[dry-run] would process: {args.input}")
+        print(f"[dry-run] would process: {{args.input}}")
         return
 
-    print(f"processing: {args.input}")
+    print(f"processing: {{args.input}}")
 
 
 if __name__ == "__main__":
