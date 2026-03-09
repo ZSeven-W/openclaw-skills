@@ -1,0 +1,4 @@
+interface:
+  display_name: "CLI Tool Template"
+  short_description: "Template for safe CLI automation tasks"
+  default_prompt: "Use this template to create CLI skills with argument contracts, dry-run support, and validation."

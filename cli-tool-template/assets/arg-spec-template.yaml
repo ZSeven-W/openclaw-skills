@@ -1,0 +1,12 @@
+command_name: sample-cli
+description: Sample CLI command
+positionals:
+  - name: input
+    help: Input file path
+options:
+  - name: --output
+    help: Output file path
+    required: false
+  - name: --dry-run
+    action: store_true
+    help: Preview without writing

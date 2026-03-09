@@ -1,0 +1,11 @@
+input_delimiter: ","
+required_columns:
+  - id
+  - name
+  - email
+trim_columns:
+  - name
+  - email
+rename_columns:
+  email: email_address
+drop_columns: []

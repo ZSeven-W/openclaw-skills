@@ -1,0 +1,4 @@
+interface:
+  display_name: "Data Processing Template"
+  short_description: "Template for reliable dataset transforms"
+  default_prompt: "Use this template to process datasets reproducibly with profiling, validation, and clean outputs."

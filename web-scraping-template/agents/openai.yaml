@@ -1,0 +1,4 @@
+interface:
+  display_name: "Web Scraping Template"
+  short_description: "Template for robust and polite scraping"
+  default_prompt: "Use this template to scrape pages respectfully with robots checks and structured output."

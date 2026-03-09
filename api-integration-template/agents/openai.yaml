@@ -1,0 +1,4 @@
+interface:
+  display_name: "API Integration Template"
+  short_description: "Template for authenticated API workflows"
+  default_prompt: "Use this template to build or adapt an API integration skill with auth, retries, and response checks."

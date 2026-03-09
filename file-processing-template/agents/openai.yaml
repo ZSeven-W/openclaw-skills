@@ -1,0 +1,4 @@
+interface:
+  display_name: "File Processing Template"
+  short_description: "Template for deterministic file pipelines"
+  default_prompt: "Use this template to process files in batches safely with preview and rollback paths."

@@ -1,0 +1,8 @@
+url: "https://example.com"
+user_agent: "OpenClawSkillTemplateBot/1.0"
+item_selector: "article"
+fields:
+  title: "h2"
+  summary: "p"
+  link: "a::attr(href)"
+request_delay_seconds: 1.0
